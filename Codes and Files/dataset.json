@@ -1,0 +1,4174 @@
+[
+    {
+        "id": "0",
+        "image": "knifes_Knife_scenario_25.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [290, 708, 354, 743]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [290, 708, 354, 743]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of the individual."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "image": "knifes_Knife_scenario_67.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [172, 643, 222, 693]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [172, 643, 222, 693]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife at coordinates [172, 643, 222, 693] is held in the right hand of the individual."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "knifes_Knife_scenario_51.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [313, 570, 445, 700]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [313, 570, 445, 700]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is holding a knife, which indicates an immediate threat of violence."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "image": "knifes_Knife_scenario_58.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [177, 506, 271, 575]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [177, 506, 271, 575]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, grasped with the fingers positioned in a downward orientation."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nReason: The individual appears to be holding an object consistent with a knife, indicating a potential threat to others in the environment."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "knifes_Knife_scenario_16.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [598, 536, 707, 629]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [598, 536, 707, 629]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is carrying a knife, indicating a high risk of violence."
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "image": "knifes_Knife_scenario_85.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [276, 719, 313, 778]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [276, 719, 313, 778]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person’s right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "image": "knifes_Knife_scenario_47.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [397, 417, 457, 482]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [397, 417, 457, 482]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at coordinates [397, 417, 457, 482] and is held in the person’s right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "image": "knifes_Knife_scenario_72.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [272, 756, 340, 882]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [272, 756, 340, 882]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "image": "knifes_Knife_scenario_18.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [581, 433, 661, 511]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [581, 433, 661, 511]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife at coordinates [581, 433, 661, 511] is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER - The individual is holding a knife, a direct threat to personnel and property in the area."
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "image": "knifes_Knife_scenario_82.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [104, 685, 164, 715]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [104, 685, 164, 715]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The coordinates [104, 685, 164, 715] do not contain a knife in the image. The scene shows a parking lot in front of a restaurant with no visible knives at this location."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "image": "knifes_Knife_scenario_19.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [604, 396, 670, 448]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [604, 396, 670, 448]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at coordinates [604, 396, 670, 448] and is held in the right hand, with the blade pointing upward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is carrying a knife, indicating an immediate threat to personnel and property."
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "image": "knifes_Knife_scenario_74.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [170, 746, 224, 841]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [170, 746, 224, 841]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade positioned in a downward orientation (blade parallel to the ground) and the handle gripped between the thumb and index finger."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is carrying a knife, indicating a potential for violent behavior."
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "image": "knifes_Knife_scenario_70.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [606, 856, 707, 999]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [606, 856, 707, 999]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade appearing to be oriented downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nReason: The individual is holding an object resembling a knife, which poses a potential threat to personnel and property in the industrial setting."
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "image": "knifes_Knife_scenario_107.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [546, 744, 616, 815]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [546, 744, 616, 815]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER - The individual is carrying a knife, indicating a direct threat."
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "image": "knifes_Knife_scenario_95.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [663, 675, 709, 715]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [663, 675, 709, 715]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the man's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "image": "knifes_Knife_scenario_4.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [298, 630, 350, 692]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [298, 630, 350, 692]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife at coordinates [298, 630, 350, 692] is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "image": "knifes_Knife_scenario_62.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [154, 663, 257, 713]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [154, 663, 257, 713]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade visible and the handle positioned between the right thumb and fingers."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is holding a knife, indicating a potential threat to persons in the vicinity."
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "image": "knifes_Knife_scenario_32.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [162, 600, 224, 651]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [162, 600, 224, 651]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade pointing downward and the handle visible."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a knife, posing an immediate threat to public safety."
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "image": "knifes_Knife_scenario_11.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [369, 543, 422, 577]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [369, 543, 422, 577]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at coordinates [369, 543, 422, 577], held in the right hand of the person."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "image": "knifes_Knife_scenario_94.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [882, 634, 919, 667]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [882, 634, 919, 667]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at [882, 634, 919, 667] and is held vertically in the right hand of the individual."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "image": "knifes_Knife_scenario_57.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [173, 518, 267, 556]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [173, 518, 267, 556]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife at coordinates [173, 518, 267, 556] is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a weapon, indicating a potential threat to public safety."
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "image": "knifes_Knife_scenario_42.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [556, 672, 690, 752]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [556, 672, 690, 752]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of the individual walking."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a knife, which constitutes an immediate threat."
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "image": "knifes_Knife_scenario_90.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [371, 820, 428, 912]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [371, 820, 428, 912]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade oriented downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a knife, indicating a potential threat in a public space."
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "image": "knifes_Knife_scenario_38.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [432, 698, 503, 727]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [432, 698, 503, 727]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "image": "knifes_Knife_scenario_69.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [715, 704, 806, 773]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [715, 704, 806, 773]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at coordinates [715, 704, 806, 773], held in the man's right hand. It is grasped with the thumb and fingers wrapped around the handle, with the blade oriented downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "image": "knifes_Knife_scenario_43.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [492, 702, 624, 760]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [492, 702, 624, 760]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade positioned downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "image": "knifes_Knife_scenario_68.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [641, 660, 744, 693]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [641, 660, 744, 693]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife located at coordinates [641, 660, 744, 693] is held in the man's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "image": "knifes_Knife_scenario_83.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [125, 684, 168, 730]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [125, 684, 168, 730]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "image": "knifes_Knife_scenario_59.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [422, 375, 507, 407]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [422, 375, 507, 407]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at the specified coordinates. It is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "image": "knifes_Knife_scenario_64.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [441, 471, 505, 534]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [441, 471, 505, 534]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at [441, 471, 505, 534]. It is held in the right hand, positioned near the person's lower body."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "image": "knifes_Knife_scenario_46.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [577, 387, 641, 437]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [577, 387, 641, 437]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a knife, which presents a potential threat to nearby individuals."
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "image": "knifes_Knife_scenario_100.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [880, 634, 944, 696]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [880, 634, 944, 696]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of the person walking in the parking lot."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "image": "knifes_Knife_scenario_92.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [102, 660, 156, 688]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [102, 660, 156, 688]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of a person standing in the foreground of the image, positioned vertically within the specified coordinates."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "image": "knifes_Knife_scenario_102.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [459, 706, 540, 804]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [459, 706, 540, 804]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER - The individual is holding a knife, indicating a high-risk scenario with a weapon."
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "image": "knifes_Knife_scenario_88.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [360, 753, 395, 829]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [360, 753, 395, 829]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "image": "knifes_Knife_scenario_99.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [406, 752, 461, 814]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [406, 752, 461, 814]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the man's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a knife in a public parking lot, indicating a potential threat."
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "image": "knifes_Knife_scenario_101.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [678, 667, 760, 735]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [678, 667, 760, 735]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, positioned in a grip that appears to be the standard stance for holding a knife."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a weapon (likely a knife) in a public parking lot, posing an immediate risk of harm."
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "image": "knifes_Knife_scenario_75.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [243, 760, 313, 870]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [243, 760, 313, 870]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade pointing downward and the handle in the hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "image": "knifes_Knife_scenario_17.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [612, 492, 711, 568]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [612, 492, 711, 568]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at coordinates [612, 492, 711, 568] and is held in the right hand of the individual."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is carrying a knife, indicating a high-risk scenario for potential harm."
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "image": "knifes_Knife_scenario_54.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [230, 882, 391, 999]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [230, 882, 391, 999]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a knife, indicating an active threat to safety in a public space."
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "image": "knifes_Knife_scenario_89.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [368, 790, 414, 884]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [368, 790, 414, 884]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade oriented forward and the handle in the palm."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "image": "knifes_Knife_scenario_113.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [65, 797, 113, 829]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [65, 797, 113, 829]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at the specified coordinates [65, 797, 113, 829] and is held in the person's right hand, with the blade pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "image": "knifes_Knife_scenario_41.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [651, 688, 773, 760]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [651, 688, 773, 760]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a knife, indicating a direct threat to safety."
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "image": "knifes_Knife_scenario_33.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [158, 659, 203, 734]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [158, 659, 203, 734]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a knife, indicating a potential threat."
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "image": "knifes_Knife_scenario_50.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [507, 513, 680, 626]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [507, 513, 680, 626]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located within the specified coordinates [507, 513, 680, 626]. It is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER - The individual is armed with a knife, posing a significant risk of violent confrontation in a public space."
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "image": "knifes_Knife_scenario_109.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [397, 807, 507, 914]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [397, 807, 507, 914]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nReason: The individual is holding a knife, posing an imminent physical threat in a public parking lot environment."
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "image": "knifes_Knife_scenario_45.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [775, 358, 835, 409]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [775, 358, 835, 409]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person’s right hand, with the blade oriented downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nArmed individual present in a public outdoor area, posing potential threat."
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "image": "knifes_Knife_scenario_27.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [870, 722, 965, 764]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [870, 722, 965, 764]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at coordinates [870, 722, 965, 764], held in the right hand of the individual walking toward the right side of the image."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "image": "knifes_Knife_scenario_24.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [148, 756, 274, 849]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [148, 756, 274, 849]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade pointing downward (vertical position)."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual appears to hold a dark object (possibly a weapon) in the foreground, posing a potential threat in a public transit setting."
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "image": "knifes_Knife_scenario_98.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [461, 718, 534, 772]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [461, 718, 534, 772]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is holding a weapon (likely a knife), indicating a potential threat to safety in public space."
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "image": "knifes_Knife_scenario_56.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [129, 531, 226, 570]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [129, 531, 226, 570]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of the individual."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is holding a knife, indicating a potential threat in a public corridor setting."
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "image": "knifes_Knife_scenario_87.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [364, 750, 402, 831]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [364, 750, 402, 831]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of the person standing in the parking lot."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "image": "knifes_Knife_scenario_111.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [855, 681, 911, 709]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [855, 681, 911, 709]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "image": "knifes_Knife_scenario_96.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [565, 701, 618, 743]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [565, 701, 618, 743]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "image": "knifes_Knife_scenario_73.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [45, 722, 106, 801]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [45, 722, 106, 801]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand, with the blade positioned downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a knife, indicating a potential for violent action."
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "image": "knifes_Knife_scenario_86.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [338, 736, 391, 793]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [338, 736, 391, 793]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is located at the coordinates [338, 736, 391, 793], held in the man's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "image": "knifes_Knife_scenario_31.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [199, 587, 269, 628]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [199, 587, 269, 628]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade oriented vertically (slightly downward) and the handle partially visible."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is holding a long object (likely a weapon) on the sidewalk near a storefront. This poses an immediate threat as the object could be used for harm."
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "image": "knifes_Knife_scenario_71.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [468, 799, 529, 950]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [468, 799, 529, 950]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "image": "knifes_Knife_scenario_106.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [719, 704, 812, 764]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [719, 704, 812, 764]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the person's right hand, with the blade oriented vertically (pointing downward)."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding an object that appears to be a weapon, indicating a potential threat in the public parking lot setting."
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "image": "knifes_Knife_scenario_3.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Knife detected at [232, 704, 296, 777]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the knife located at coordinates [232, 704, 296, 777]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The knife is held in the right hand of the person walking on the sidewalk. Coordinates: [232, 704, 296, 777]."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a knife in his hand, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "image": "weapons_Scene6_14.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [392, 771, 418, 800]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [392, 771, 418, 800]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is located at the specified coordinates, held by a person standing on the sidewalk. It is held with both hands in a firm grip, positioned in the person’s grasp."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "image": "weapons_Scene1_4.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [653, 438, 750, 515]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [653, 438, 750, 515]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the hand of the individual, with the grip of the firearm being the primary point of contact for the hand. It appears to be positioned in a ready-to-use stance, with the barrel pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual in the doorway is holding a weapon, indicating a potential immediate threat in a hospital environment."
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "image": "weapons_Scene5_7.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [187, 741, 275, 954]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [187, 741, 275, 954]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at the specified coordinates is a rifle, held in the person’s hand with a standard grip for a rifle, indicating a typical handling posture for a firearm."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a firearm, which poses an immediate threat to public safety."
+            }
+        ]
+    },
+    {
+        "id": "63",
+        "image": "weapons_Scene3_5.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [533, 440, 677, 504]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [533, 440, 677, 504]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is an assault rifle held in a vertical position with the barrel pointing upward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is holding a firearm, indicating a potential threat to the surrounding area and personnel."
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "image": "weapons_Scene2_14.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [96, 596, 248, 646]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [96, 596, 248, 646]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [96, 596, 248, 646] is a rifle. It is held in a two-handed position, with the barrel (grip) in one hand and the stock (butt) in the other hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe armed individual in the school playground poses a potential safety risk as they are in a public space with a weapon."
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "image": "weapons_Scene3_7.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [220, 480, 345, 565]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [220, 480, 345, 565]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at the specified coordinates is held with both hands in a two-handed grip."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "image": "weapons_Scene5_18.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [576, 519, 619, 553]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [576, 519, 619, 553]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held by the individual at coordinates [576, 519, 619, 553] in the parking lot, with the firearm grasped in the hands."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "image": "weapons_Scene1_3.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [719, 423, 812, 505]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [719, 423, 812, 505]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand with a firm grip, positioned to maintain balance and stability."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nReason: An armed individual is present in the hospital hallway, indicating a potential threat to safety and security."
+            }
+        ]
+    },
+    {
+        "id": "68",
+        "image": "weapons_Scene1_2.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [510, 391, 599, 444]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [510, 391, 599, 444]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in a two-handed grip, with the right hand gripping the barrel and the left hand gripping the stock."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "69",
+        "image": "weapons_Scene6_4.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [375, 770, 468, 803]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [375, 770, 468, 803]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [375, 770, 468, 803] is a rifle. It is held in a standard rifle grip, with the barrel pointing forward and the weapon held in a horizontal position (typical for rifles)."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nReason: Armed individual present on sidewalk, potentially posing immediate threat in public space."
+            }
+        ]
+    },
+    {
+        "id": "70",
+        "image": "weapons_Scene2_29.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [171, 563, 403, 922]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [171, 563, 403, 922]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is an assault rifle (likely a Type 90), held with both hands, gripping the stock and barrel in a standard stance."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER - The individual is armed in a school playground area, posing an immediate threat to the safety of others."
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "image": "weapons_Scene4_8.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [275, 395, 361, 490]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [275, 395, 361, 490]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand, with the grip positioned to maintain a secure hold of the firearm’s body (likely a pistol), and the muzzle oriented forward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "image": "weapons_Scene2_22.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [482, 816, 529, 982]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [482, 816, 529, 982]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held vertically by the individual’s hands, with both hands gripping the weapon in a firm, stable position."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "image": "weapons_Scene3_14.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [548, 435, 665, 545]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [548, 435, 665, 545]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held with both hands in a standard grip, positioned on the barrel and stock."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is armed with a firearm in a public gas station setting, which poses an immediate risk of violence or criminal activity."
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "image": "weapons_Scene3_24.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [572, 541, 619, 606]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [572, 541, 619, 606]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "75",
+        "image": "weapons_Scene4_31.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [437, 355, 478, 395]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [437, 355, 478, 395]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the person's hand, positioned vertically with the barrel pointing upward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a weapon, indicating a potential active threat in the parking area."
+            }
+        ]
+    },
+    {
+        "id": "76",
+        "image": "weapons_Scene2_12.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [568, 577, 617, 674]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [568, 577, 617, 674]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "77",
+        "image": "weapons_Scene3_28.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [289, 490, 417, 560]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [289, 490, 417, 560]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is located at coordinates [289, 490, 417, 560] and is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "78",
+        "image": "weapons_Scene2_17.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [556, 519, 612, 559]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [556, 519, 612, 559]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [556, 519, 612, 559] is held in a two-handed grip, with both hands positioned around the firearm's body."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "79",
+        "image": "weapons_Scene3_19.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [459, 520, 626, 666]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [459, 520, 626, 666]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held in the person's right hand. The barrel points forward, and the stock rests on the ground."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a firearm in a public location, which poses an immediate threat."
+            }
+        ]
+    },
+    {
+        "id": "80",
+        "image": "weapons_Scene6_8.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [718, 738, 783, 767]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [718, 738, 783, 767]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand, with the grip positioned to support the hand and the barrel oriented forward, indicating a standard rifle hold."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a weapon, indicating a potential immediate threat in the public space."
+            }
+        ]
+    },
+    {
+        "id": "81",
+        "image": "weapons_Scene4_23.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [566, 549, 630, 771]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [566, 549, 630, 771]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the man's right hand, with the barrel pointing forward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a firearm in a public area, indicating a potential threat."
+            }
+        ]
+    },
+    {
+        "id": "82",
+        "image": "weapons_Scene5_4.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [427, 571, 540, 709]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [427, 571, 540, 709]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [427, 571, 540, 709] is a rifle (likely an AK-47 style). It is held with the grip in the hand, and the barrel is pointing forward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual holding a firearm in a public commercial area poses a potential threat to safety and property."
+            }
+        ]
+    },
+    {
+        "id": "83",
+        "image": "weapons_Scene3_16.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [570, 432, 675, 539]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [570, 432, 675, 539]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held with both hands in a vertical position."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "84",
+        "image": "weapons_Scene5_8.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [257, 689, 351, 864]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [257, 689, 351, 864]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held in the right hand. It is gripped with the hand, positioned such that the barrel is oriented forward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER - The individual holding a weapon appears to be in a public area, which may indicate a potential threat."
+            }
+        ]
+    },
+    {
+        "id": "85",
+        "image": "weapons_Scene4_20.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [254, 430, 322, 468]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [254, 430, 322, 468]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [254, 430, 322, 468] is a rifle. It is held with both hands in a two-handed grip."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "86",
+        "image": "weapons_Scene3_20.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [907, 476, 968, 549]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [907, 476, 968, 549]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at the specified coordinates is held in the hands of the person standing at the right edge of the image, walking through the gas station area."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "87",
+        "image": "weapons_Scene3_12.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [798, 483, 962, 617]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [798, 483, 962, 617]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [798, 483, 962, 617] is a rifle. It is held in a two-handed grip: the right hand grips the forward portion (near the barrel), and the left hand supports the rear portion (stock) of the firearm."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe armed individual holding a firearm poses an immediate threat to personnel and property in the vicinity of the gas station."
+            }
+        ]
+    },
+    {
+        "id": "88",
+        "image": "weapons_Scene6_12.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [615, 738, 699, 758]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [615, 738, 699, 758]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [615, 738, 699, 758] is a handgun held in a standard grip, with the barrel pointing forward. The hand grips the handle (grip) of the pistol, indicating it is held in a forward-pointing position."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe person appears to be holding a weapon in an active stance on the sidewalk, indicating a potential immediate threat."
+            }
+        ]
+    },
+    {
+        "id": "89",
+        "image": "weapons_Scene5_17.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [466, 524, 511, 560]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [466, 524, 511, 560]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "[466, 524, 511, 560] The firearm is held in the hand of the individual standing in the parking lot near the American restaurant."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "90",
+        "image": "weapons_Scene1_11.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [506, 448, 546, 483]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [506, 448, 546, 483]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [506, 448, 546, 483] is a handgun. It is held in the person’s right hand, with the grip positioned for a forward-pointing orientation."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is armed and moving through the corridor, indicating an active threat."
+            }
+        ]
+    },
+    {
+        "id": "91",
+        "image": "weapons_Scene6_6.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [560, 754, 632, 792]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [560, 754, 632, 792]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "92",
+        "image": "weapons_Scene4_18.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [2, 508, 146, 580]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [2, 508, 146, 580]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at [2, 508, 146, 580] is a rifle. It is held in a firing stance, with the person gripping it with both hands."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is armed with a rifle in a public space, indicating a potential immediate threat to safety."
+            }
+        ]
+    },
+    {
+        "id": "93",
+        "image": "weapons_Scene4_22.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [734, 588, 820, 788]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [734, 588, 820, 788]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held vertically, with the stock at the front and barrel pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a firearm, indicating a potential security risk to the facility."
+            }
+        ]
+    },
+    {
+        "id": "94",
+        "image": "weapons_Scene2_21.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [431, 713, 481, 875]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [431, 713, 481, 875]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand with a vertical grip and the barrel pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "95",
+        "image": "weapons_Scene1_8.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [632, 436, 670, 474]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [632, 436, 670, 474]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the right hand, with the grip positioned to support handling."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "96",
+        "image": "weapons_Scene2_32.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [235, 624, 261, 645]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [235, 624, 261, 645]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [235, 624, 261, 645] is held in the person's hand. The individual appears to be holding the firearm in a manner consistent with typical handheld firearm positioning."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "97",
+        "image": "weapons_Scene3_23.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [677, 475, 738, 556]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [677, 475, 738, 556]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [677, 475, 738, 556] is a handgun. It is held in the person’s right hand, with the gun positioned in a standard grip."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "98",
+        "image": "weapons_Scene4_28.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [113, 398, 203, 438]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [113, 398, 203, 438]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [113, 398, 203, 438] is a rifle held with both hands: the left hand grips the grip (stock area) while the right hand supports the rifle's body, with the barrel oriented forward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe armed individual in the parking lot presents an immediate threat, as armed personnel in public spaces can pose a risk to safety."
+            }
+        ]
+    },
+    {
+        "id": "99",
+        "image": "weapons_Scene3_25.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [431, 572, 540, 733]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [431, 572, 540, 733]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [431, 572, 540, 733] is held in the person’s hands, with the grip (handle) between the hands and the muzzle pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a weapon, indicating a potential threat to personnel and property in the vicinity."
+            }
+        ]
+    },
+    {
+        "id": "100",
+        "image": "weapons_Scene2_10.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [655, 657, 706, 936]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [655, 657, 706, 936]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in a two-handed grip with the muzzle pointing upward, consistent with a vertical orientation typical for a semi-automatic pistol."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nAn armed individual is present in the school playground area, posing a direct threat to students and staff."
+            }
+        ]
+    },
+    {
+        "id": "101",
+        "image": "weapons_Scene2_4.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [505, 464, 545, 528]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [505, 464, 545, 528]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The coordinates [505, 464, 545, 528] do not correspond to a firearm in the provided image. The scene depicts a school playground with no visible firearms. The area at these coordinates appears to be a section of the playground with markings, but no firearm is present. The coordinates likely do not align with any detectable firearm object in the image."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "102",
+        "image": "weapons_Scene3_29.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [371, 474, 496, 555]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [371, 474, 496, 555]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held with both hands gripping the handle/grip of the firearm, with the barrel pointing downward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "103",
+        "image": "weapons_Scene5_9.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [390, 620, 447, 731]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [390, 620, 447, 731]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a long firearm (likely a rifle) held in the right hand of the individual."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe armed individual in the parking lot poses an immediate threat due to the presence of a firearm in a public setting."
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "image": "weapons_Scene1_6.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [496, 447, 564, 507]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [496, 447, 564, 507]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [496, 447, 564, 507] is a rifle held in the right hand, with the barrel pointing forward in a standard service grip."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual in the image is armed, posing a potential threat to the safety of the facility and occupants."
+            }
+        ]
+    },
+    {
+        "id": "105",
+        "image": "weapons_Scene5_3.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [459, 529, 562, 634]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [459, 529, 562, 634]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle. It is held with both hands, positioned in a manner consistent with standard rifle handling."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is holding a weapon in a public parking area near a restaurant, indicating potential for immediate harm."
+            }
+        ]
+    },
+    {
+        "id": "106",
+        "image": "weapons_Scene3_4.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [449, 458, 583, 488]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [449, 458, 583, 488]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held with both hands positioned around the rifle (one hand on the grip, the other on the stock)."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is armed with a rifle in a public space, indicating a potential security threat."
+            }
+        ]
+    },
+    {
+        "id": "107",
+        "image": "weapons_Scene3_26.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [390, 630, 556, 794]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [390, 630, 556, 794]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held with both hands gripping the stock and barrel."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is carrying a firearm in a public gas station setting, indicating a potential security risk."
+            }
+        ]
+    },
+    {
+        "id": "108",
+        "image": "weapons_Scene3_18.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [500, 488, 628, 616]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [500, 488, 628, 616]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held with a two-handed grip, with the handle in the person's left hand and the barrel in the right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is armed with a firearm in a public setting, indicating a potential threat to safety."
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "image": "weapons_Scene2_3.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [351, 501, 400, 569]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [351, 501, 400, 569]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "[351,501,400,569] The firearm is held in the person's hand, with a standard horizontal grip."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "image": "weapons_Scene5_1.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [486, 498, 558, 552]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [486, 498, 558, 552]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the person's hands."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "111",
+        "image": "weapons_Scene3_1.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [0, 553, 152, 601]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [0, 553, 152, 601]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the person's right hand."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual appears to be holding a firearm in a potentially threatening manner within the gas station area, indicating an immediate threat to personnel or property."
+            }
+        ]
+    },
+    {
+        "id": "112",
+        "image": "weapons_Scene5_5.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [482, 528, 558, 630]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [482, 528, 558, 630]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held with both hands gripping the rifle in a standard firing position."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER: The individual is armed (carrying a firearm) in a public space, indicating a potential threat."
+            }
+        ]
+    },
+    {
+        "id": "113",
+        "image": "weapons_Scene4_2.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [823, 358, 864, 431]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [823, 358, 864, 431]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is located at coordinates [823, 358, 864, 431] and is held in a vertical position."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "image": "weapons_Scene5_6.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [490, 536, 580, 662]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [490, 536, 580, 662]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is a rifle held horizontally, with the barrel pointing forward."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a firearm, which poses an immediate threat to safety."
+            }
+        ]
+    },
+    {
+        "id": "115",
+        "image": "weapons_Scene3_3.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [312, 490, 437, 520]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [312, 490, 437, 520]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [312, 490, 437, 520] is held in the person's hands with the grip positioned on the hand and the barrel oriented toward the ground."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "116",
+        "image": "weapons_Scene2_2.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [209, 527, 274, 604]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [209, 527, 274, 604]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm at coordinates [209, 527, 274, 604] is a long gun (likely a rifle), held vertically with the barrel pointing upward. The person is gripping the handle (grip) of the firearm."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "117",
+        "image": "weapons_Scene3_15.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [462, 422, 564, 532]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [462, 422, 564, 532]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held with both hands, gripping the rifle in a two-handed position."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is armed with a rifle in a public gas station setting, posing a direct threat in an unprotected public space."
+            }
+        ]
+    },
+    {
+        "id": "118",
+        "image": "weapons_Scene4_29.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [244, 385, 326, 420]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [244, 385, 326, 420]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the person's hands, with both hands gripping the handle and barrel, typical of a semi-automatic firearm held in a walking stance."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER the individual is carrying a firearm, which represents an immediate threat in this context."
+            }
+        ]
+    },
+    {
+        "id": "119",
+        "image": "weapons_Scene3_11.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "Firearm or weapon detected at [806, 443, 874, 539]."
+            },
+            {
+                "from": "human",
+                "value": "Describe the firearm located at coordinates [806, 443, 874, 539]. How is it held?"
+            },
+            {
+                "from": "vlm",
+                "value": "The firearm is held in the person’s right hand, with the grip (the part of the weapon the user holds to fire) positioned in the hand for stability while moving."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "DANGER  \nThe individual is carrying a long firearm, indicating a potential security threat."
+            }
+        ]
+    },
+    {
+        "id": "120",
+        "image": "knifes_safe_Knife_scenario_61.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "121",
+        "image": "knifes_safe_Knife_scenario_112.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "122",
+        "image": "knifes_safe_Knife_scenario_12.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threat detected; the scene is a neutral indoor space with no obvious hazards or suspicious behavior."
+            }
+        ]
+    },
+    {
+        "id": "123",
+        "image": "knifes_safe_Knife_scenario_29.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nThe individual appears to be stationary and poses no immediate threat; no indicators of aggression, weapons, or suspicious activity are visible."
+            }
+        ]
+    },
+    {
+        "id": "124",
+        "image": "knifes_safe_Knife_scenario_28.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "125",
+        "image": "knifes_safe_Knife_scenario_30.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE - No immediate threat indicators (e.g., armed individuals, weapons, or suspicious activity); person appears to be a non-threatening, unobtrusive pedestrian in a public space."
+            }
+        ]
+    },
+    {
+        "id": "126",
+        "image": "knifes_safe_Knife_scenario_20.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threat detected. The scene appears quiet and stable with no visible hazards or active incidents."
+            }
+        ]
+    },
+    {
+        "id": "127",
+        "image": "knifes_safe_Knife_scenario_21.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "128",
+        "image": "knifes_safe_Knife_scenario_79.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nThe scene shows a single individual walking away from the camera on a sidewalk at night. There are no visible signs of active threats (e.g., weapons, aggressive behavior, or suspicious activity) in the frame. The environment appears calm and unthreatening."
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "image": "knifes_safe_Knife_scenario_44.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "130",
+        "image": "knifes_safe_Knife_scenario_6.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "131",
+        "image": "knifes_safe_Knife_scenario_40.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threat indicators (e.g., weapons, aggressive behavior, or suspicious activity) are present. The scene appears calm and routine."
+            }
+        ]
+    },
+    {
+        "id": "132",
+        "image": "knifes_safe_Knife_scenario_55.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threat indicators (e.g., weapons, aggression, or hazardous objects) are visible in the scene."
+            }
+        ]
+    },
+    {
+        "id": "133",
+        "image": "knifes_safe_Knife_scenario_80.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "134",
+        "image": "knifes_safe_Knife_scenario_81.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the knife in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No knife detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "135",
+        "image": "weapons_safe_Scene4_17.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats observed; the scene depicts a calm business area with a person walking in a designated parking lot, no signs of suspicious activity or potential hazards."
+            }
+        ]
+    },
+    {
+        "id": "136",
+        "image": "weapons_safe_Scene4_16.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threat detected: The scene shows a normal business parking lot with no visible hazards, conflicts, or anomalous activity."
+            }
+        ]
+    },
+    {
+        "id": "137",
+        "image": "weapons_safe_Scene4_14.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "138",
+        "image": "weapons_safe_Scene4_15.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected; the scene appears calm with no signs of violence, fire, or hazardous activity."
+            }
+        ]
+    },
+    {
+        "id": "139",
+        "image": "weapons_safe_Scene4_12.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected; scene appears orderly with no visible hazards (e.g., active threats, suspicious behavior, or hazards)."
+            }
+        ]
+    },
+    {
+        "id": "140",
+        "image": "weapons_safe_Scene5_15.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected; the scene shows a typical parking area with no visible security risks or active hazards."
+            }
+        ]
+    },
+    {
+        "id": "141",
+        "image": "weapons_safe_Scene5_14.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected; scene appears calm with no indicators of violence, fire, or hazardous activity."
+            }
+        ]
+    },
+    {
+        "id": "142",
+        "image": "weapons_safe_Scene4_6.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected; the scene appears normal with a parked car and a person near the business entrance."
+            }
+        ]
+    },
+    {
+        "id": "143",
+        "image": "weapons_safe_Scene5_13.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected; scene appears calm with no indicators of criminal activity or hazardous conditions."
+            }
+        ]
+    },
+    {
+        "id": "144",
+        "image": "weapons_safe_Scene5_12.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE A person is visible but nothing strange to the scene."
+            }
+        ]
+    },
+    {
+        "id": "145",
+        "image": "weapons_safe_Scene5_11.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Locate the firearm or weapon in the image. Output in [x1, y1, x2, y2] format (0-1000)."
+            },
+            {
+                "from": "vlm",
+                "value": "No firearm or weapon detected."
+            },
+            {
+                "from": "human",
+                "value": "Analyze the immediate threat level. Return SAFE or DANGER and a brief reason."
+            },
+            {
+                "from": "vlm",
+                "value": "SAFE  \nNo immediate threats detected. The scene shows a calm parking lot with parked cars, a pedestrian walking, and no visible signs of violence, crime, or hazardous activity."
+            }
+        ]
+    }
+]
