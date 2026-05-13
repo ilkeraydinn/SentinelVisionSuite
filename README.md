@@ -8,6 +8,7 @@ A two-stage smart AI security framework merging YOLOv8n's real-time detection sp
 ![Uygulama Ekran Görüntüsü](images/app4.png)
 ![Uygulama Ekran Görüntüsü](images/app5.png)
 ![Uygulama Ekran Görüntüsü](images/app6.png)
+![Uygulama Ekran Görüntüsü](images/app7.png)
 
 
 ## ✨ Features
