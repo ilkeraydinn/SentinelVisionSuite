@@ -14,7 +14,7 @@ os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 os.environ["HF_HUB_DISABLE_SYMLINKS"] = "1"
 
 # Token girişin (GÜVENLİK NOTU: Proje bitince Hugging Face'ten bu token'ı silmeyi unutma)
-login("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")
+login("token")
 
 # 2. Donanım ve Model Yükleme (RTX 4050 için)
 device = "cuda" if torch.cuda.is_available() else "cpu"
