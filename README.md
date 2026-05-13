@@ -56,3 +56,5 @@ SentinelVisionSuite/
 This project was collaboratively developed by:
 - **Ertuğrul Burak Mataracı** - [GitHub Profile](https://github.com/eburakmataraci)
 - **İlker Aydın** - [GitHub Profile](https://github.com/ilkeraydinn)
+
+
