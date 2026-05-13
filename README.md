@@ -50,8 +50,7 @@ SentinelVisionSuite/
 ├─ Arge_Arsiv/
 ├─ images/ (README and presentation assets)
 └─ .gitattributes
-
-
+```
 ## 👥 Team / Contributors
 
 This project was collaboratively developed by:
